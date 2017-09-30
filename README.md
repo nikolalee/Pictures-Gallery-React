@@ -1,2 +1,2 @@
 # Pictures-Gallery-React
-pictrue gallery based on react
+picture gallery based on react
